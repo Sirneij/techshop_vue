@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Metro 38 Date",
+      "reference": 1102,
+      "salePrice": 39900,
+      "originalPrice": 35000,
+      "img1": "/static/images/product-1/product-1.jpg",
+      "img2": "/static/images/product-1/product-2.jpg",
+      "availableInventory": 10,
+      "rating": 3
+    },
+    {
+      "id": 2,
+      "title": "Lady Shoe",
+      "reference": 1103,
+      "salePrice": 28000,
+      "originalPrice": 20000,
+      "img1": "/static/images/product-1/product-5.jpg",
+      "img2": "/static/images/product-1/product-6.jpg",
+      "availableInventory": 10,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "title": "Casio 09 Date",
+      "reference": 1112,
+      "salePrice": 28000,
+      "originalPrice": 20000,
+      "img1": "/static/images/product-1/product-3.jpg",
+      "img2": "/static/images/product-1/product-4.jpg",
+      "availableInventory": 8,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "title": "Man's Shoe",
+      "reference": 102,
+      "salePrice": 35000,
+      "originalPrice": 38000,
+      "img1": "/static/images/product-1/product-7.jpg",
+      "img2": "/static/images/product-1/product-8.jpg",
+      "availableInventory": 9,
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "title": "Polo T Shirt",
+      "reference": 1202,
+      "salePrice": 35000,
+      "originalPrice": 38000,
+      "img1": "/static/images/product-1/product-9.jpg",
+      "img2": "/static/images/product-1/product-10.jpg",
+      "availableInventory": 12,
+      "rating": 3
+    },
+    {
+      "id": 6,
+      "title": "Lotto T Shirt",
+      "reference": 112,
+      "salePrice": 47000,
+      "originalPrice": 48000,
+      "img1": "/static/images/product-1/product-9.jpg",
+      "img2": "/static/images/product-1/product-10.jpg",
+      "availableInventory": 34,
+      "rating": 5
+    }
+  ]
+}
